@@ -20,7 +20,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react",
+    "jsx": "react-jsx",
     "sourceMap": true, // Generate corresponding .map file
     "declaration": true, // Generate corresponding .d.ts file
     // "noUnusedLocals": true, // Report errors on unused locals

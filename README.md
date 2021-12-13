@@ -23,3 +23,9 @@
 > npx sb@next init --builder storybook-builder-vite
 2. Start storybook
 > yarn storybook
+
+
+----------
+
+
+> If CSS is not receiving then remove PurgeCSS from vite.config.ts
